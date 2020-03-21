@@ -14,7 +14,7 @@ we have analysed of the following with the IPL-T20 matches from the year 2008 ti
 10. Average score of batsmen
 11. Season wise wins of all teams
 ### Datasets
-The datasets used in this project are _matches.csv_ and _deliveries.csv_. These files consist of data of all IPL matches till 2017. The dataset used in this project can be obtained from[_**Indian Premier League till 2017**_](https://www.kaggle.com/raghu07/ipl-data-till-2017).
+The datasets used in this project are _matches.csv_ and _deliveries.csv_. These files consist of data of all IPL matches till 2017. The dataset used in this project can be obtained from [_**Indian Premier League till 2017**_](https://www.kaggle.com/raghu07/ipl-data-till-2017).
 ### Prerequisites
 - Jupyter Notebook
 - Any web browser
